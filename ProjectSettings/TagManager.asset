@@ -6,11 +6,12 @@ TagManager:
   tags:
   - Goal
   - Chicken
+  - Target
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Goal
   - Water
   - UI
   - 
